@@ -25,7 +25,7 @@ You get notifications when people follow you, interact with your posts, collect 
 
 ## Example
 
-Add screenshot: feed card **Enable notification** + device permission popup.
+![System notification example](/images/system-notification.png)
 
 ## Next step
 
