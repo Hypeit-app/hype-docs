@@ -15,7 +15,8 @@ export default defineConfig({
       { text: 'Getting Started', link: '/getting-started' },
       { text: 'Posting', link: '/posting-on-hype' },
       { text: 'Collecting', link: '/owning-posts-collectors' },
-      { text: 'Earning', link: '/earning-on-hype' }
+      { text: 'Earning', link: '/earning-on-hype' },
+      { text: 'Mini Apps', link: '/mini-apps' }
     ],
     sidebar: [
       {
@@ -48,6 +49,13 @@ export default defineConfig({
           { text: 'Supported Networks', link: '/supported-networks' },
           { text: 'Notifications', link: '/notifications' },
           { text: 'FAQ', link: '/faq' }
+        ]
+      },
+      {
+        text: 'Mini Apps',
+        items: [
+          { text: 'Mini App SDK', link: '/mini-apps' },
+          { text: 'Approval & Review', link: '/mini-app-approval' }
         ]
       }
     ]
